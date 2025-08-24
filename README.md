@@ -1,1 +1,1 @@
-# .github
+# mainify readme
